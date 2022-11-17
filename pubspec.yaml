@@ -1,6 +1,6 @@
 name: nagraj_utils
 description: Just first package.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/nagraj0308/nagraj_utils
 
 environment:
